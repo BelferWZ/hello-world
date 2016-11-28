@@ -1,2 +1,2 @@
 # hello-world
-Na start
+Na start i trochę na próbę
